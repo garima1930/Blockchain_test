@@ -2,10 +2,8 @@
 
 System.out.println("My blockchain code");
 #more sample code 
-
-<<<<<<< HEAD
 a*b-c
 print("exit program");
-=======
-z*b-c+d
->>>>>>> d9a78ae894a571c6d883919643d5b6a879ceccc6
+z*b-c+d+e
+
+ 
